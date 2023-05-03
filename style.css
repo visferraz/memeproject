@@ -1,0 +1,22 @@
+html {
+    background-color: black;
+}
+
+.poster {
+    color: white;
+    text-align: center;
+    margin-top: 95px;
+    height: 3rem;
+}
+
+.h1 {
+    text-transform: uppercase;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    margin-left: 25%;
+}
+
+img {
+    border: 5px solid white;
+}
